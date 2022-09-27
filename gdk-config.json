@@ -8,8 +8,8 @@
                 
             },
             "publish": {
-                "bucket": "<your-bucket-prefix>",
-                "region": "eu-west-1"
+                "bucket": "agtonomy-deployment",
+                "region": "us-west-2"
             }
         }
     },
